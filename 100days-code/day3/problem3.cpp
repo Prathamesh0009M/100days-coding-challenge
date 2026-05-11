@@ -27,6 +27,7 @@ int main() {
     int n;
     vector<string> models;
 
+
     getline(cin, components);
     cin >> n;
 
@@ -40,3 +41,6 @@ int main() {
 
     return 0;
 }
+
+
+// Prathamesh Jadhav
